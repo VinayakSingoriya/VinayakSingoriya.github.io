@@ -10159,7 +10159,7 @@ section.resume-section .resume-section-content {
   width: 1200px;
   position: relative;
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   flex-direction: column;
 }
 
